@@ -6,21 +6,21 @@ Welcome to my cybersecurity flashcards repository! This project aims to provide 
 
 ## Table of Contents
 
-- [Topics covered](#Topics covered)
-- [Instructions for using flashcards](#Instructions for using flashcards)
-- [Using Anki](#Using Anki)
-- [Contribution guidelines](Contribution guidelines)
+- [Topics](#Topics covered)
+- [Instructions](#Instructions for using flashcards)
+- [Anki](#Using Anki)
+- [Contributions](Contribution guidelines)
 - [License](#license)
 - [Contact](#contact)
 
-## Topics covered 
+## Topics 
 
 - Security frameworks
 
 > Upcoming topics : network security, cryptography, ethical hacking, threat analysis, security protocols, incident response
 
 
-## Instructions for using flashcards
+## Instructions
 
 Each flashcard contains a question or prompt on the front and an answer or explanation on the back. These flashcards can be utilized in three ways:
 
@@ -30,7 +30,7 @@ Each flashcard contains a question or prompt on the front and an answer or expla
 
 3. **Group Study:** Use the flashcards in study groups to facilitate discussions and learning.
 
-### Using Anki
+### Anki
 
 Anki is a powerful flashcard app that uses spaced repetition to help you retain information more effectively. To use these flashcards with Anki:
 
@@ -46,7 +46,7 @@ Anki is a powerful flashcard app that uses spaced repetition to help you retain 
 4. **Sync Across Devices:** if you want to study on multiple devices, create an AnkiWeb account and sync your flashcards. This allows you to review your cards on mobile devices and other computers.
    
    
-## Contribution guidelines
+## Contributions
 
 I welcome contributions! If you have ideas for a couple of flashcards, feel free to contqct me. Otherwise, if you have new packets to add, design corrections, or card types improvement, please follow these steps:
 1. Fork the repository.
