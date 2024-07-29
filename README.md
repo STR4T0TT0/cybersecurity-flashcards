@@ -6,10 +6,10 @@ Welcome to my cybersecurity flashcards repository! This project aims to provide 
 
 ## Table of Contents
 
-- [Topics](#Topics covered)
-- [Instructions](#Instructions for using flashcards)
-- [Anki](#Using Anki)
-- [Contributions](Contribution guidelines)
+- [Topics](#Topics)
+- [Instructions](#Instructions)
+- [Anki](#Anki)
+- [Contributions](Contributions)
 - [License](#license)
 - [Contact](#contact)
 
