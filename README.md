@@ -4,17 +4,20 @@
 
 Welcome to my cybersecurity flashcards repository! This project aims to provide a comprehensive set of flashcards covering essential topics in cybersecurity. Whether you're a student, a professional, or just interested in cybersecurity, I hope these flashcards to be a great resource to test and enhance your knowledge.
 
+## Table of Contents
+
+- [Topics covered](#Topics covered)
+- [Instructions for using flashcards](#Instructions for using flashcards)
+- [Using Anki](#Using Anki)
+- [Contribution guidelines](Contribution guidelines)
+- [License](#license)
+- [Contact](#contact)
+
 ## Topics covered 
 
 - Security frameworks
 
-> Upcoming topics 
-    - Network security
-    - Cryptography
-    - Ethical hacking
-    - Threat analysis
-    - Security protocols
-    - Incident response
+> Upcoming topics : network security, cryptography, ethical hacking, threat analysis, security protocols, incident response
 
 
 ## Instructions for using flashcards
@@ -59,7 +62,7 @@ This project is licensed under the MIT License. This permissive license allows a
 
 
 ## Contact
-For questions or feedback, please open an issue or contact me  directly.
+For questions or feedback, please open an issue or reach out to me at str4t0tt0@proton.me.
 
 ---
 
